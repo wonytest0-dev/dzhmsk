@@ -1,12 +1,12 @@
 {
-  "updatedAt": "31/05/2026, 21:06:53 KST",
+  "updatedAt": "01/06/2026, 18:15:45 KST",
   "totalEntries": 11,
   "deezer": [
     {
       "title": "Who",
       "country": "Argentina",
       "rank": 1,
-      "movement": "+1",
+      "movement": "=",
       "type": "single",
       "isTop1": true
     },
@@ -30,7 +30,7 @@
       "title": "Who",
       "country": "Philippines",
       "rank": 2,
-      "movement": "+2",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -46,7 +46,7 @@
       "title": "Who",
       "country": "Philippines",
       "rank": 10,
-      "movement": "-5",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -54,15 +54,7 @@
       "title": "Who",
       "country": "Saudi Arabia",
       "rank": 86,
-      "movement": "-83",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Be Mine",
-      "country": "Japan",
-      "rank": 7,
-      "movement": "NE",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -70,7 +62,7 @@
       "title": "Like Crazy",
       "country": "Japan",
       "rank": 2,
-      "movement": "+3",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -78,7 +70,15 @@
       "title": "Like Crazy",
       "country": "Argentina",
       "rank": 4,
-      "movement": "+1",
+      "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Be Mine",
+      "country": "Japan",
+      "rank": 7,
+      "movement": "=",
       "type": "single",
       "isTop1": false
     }
@@ -87,8 +87,8 @@
     {
       "title": "Who",
       "country": "Japan",
-      "rank": 28,
-      "movement": "-1",
+      "rank": 21,
+      "movement": "+7",
       "type": "single",
       "isTop1": false
     }
@@ -101,13 +101,13 @@
       "shazamTop1": 0
     },
     {
-      "title": "Be Mine",
+      "title": "Like Crazy",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
     },
     {
-      "title": "Like Crazy",
+      "title": "Be Mine",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
