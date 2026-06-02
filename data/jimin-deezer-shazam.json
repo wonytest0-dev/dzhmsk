@@ -1,5 +1,5 @@
 {
-  "updatedAt": "02/06/2026, 17:22:45 KST",
+  "updatedAt": "02/06/2026, 21:35:58 KST",
   "totalEntries": 6,
   "deezer": [
     {
@@ -22,7 +22,7 @@
       "title": "Like Crazy",
       "country": "Philippines",
       "rank": 87,
-      "movement": "NE",
+      "movement": "-39",
       "type": "single",
       "isTop1": false
     },
@@ -30,7 +30,7 @@
       "title": "Be Mine",
       "country": "Japan",
       "rank": 5,
-      "movement": "+2",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
