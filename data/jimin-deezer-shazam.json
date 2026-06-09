@@ -1,5 +1,5 @@
 {
-  "updatedAt": "08/06/2026, 22:01:18 KST",
+  "updatedAt": "09/06/2026, 16:41:20 KST",
   "totalEntries": 16,
   "deezer": [
     {
@@ -127,8 +127,8 @@
     {
       "title": "Who",
       "country": "Japan",
-      "rank": 18,
-      "movement": "-3",
+      "rank": 20,
+      "movement": "-2",
       "type": "single",
       "isTop1": false
     }
