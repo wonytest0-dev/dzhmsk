@@ -1,5 +1,5 @@
 {
-  "updatedAt": "14/06/2026, 17:10:06 KST",
+  "updatedAt": "14/06/2026, 20:25:56 KST",
   "totalEntries": 17,
   "deezer": [
     {
@@ -20,41 +20,57 @@
     },
     {
       "title": "Who",
-      "country": "Philippines",
-      "rank": 2,
-      "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
       "country": "Argentina",
-      "rank": 3,
-      "movement": "=",
+      "rank": 2,
+      "movement": "+1",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
-      "country": "Philippines",
-      "rank": 3,
-      "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Philippines",
+      "country": "Singapore",
       "rank": 4,
-      "movement": "=",
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 12,
-      "movement": "=",
+      "rank": 5,
+      "movement": "-2",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 6,
+      "movement": "-2",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 7,
+      "movement": "-5",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 11,
+      "movement": "+6",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 14,
+      "movement": "+1",
       "type": "single",
       "isTop1": false
     },
@@ -62,47 +78,23 @@
       "title": "Who",
       "country": "Philippines",
       "rank": 15,
-      "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Philippines",
-      "rank": 17,
-      "movement": "=",
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Austria",
-      "rank": 18,
-      "movement": "=",
+      "rank": 17,
+      "movement": "+1",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Chile",
-      "rank": 39,
-      "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Hungary",
-      "rank": 63,
-      "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Indonesia",
-      "rank": 73,
-      "movement": "=",
+      "rank": 34,
+      "movement": "+5",
       "type": "single",
       "isTop1": false
     },
@@ -117,16 +109,24 @@
     {
       "title": "Like Crazy",
       "country": "Argentina",
-      "rank": 6,
-      "movement": "=",
+      "rank": 3,
+      "movement": "+3",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Like Crazy",
       "country": "Philippines",
-      "rank": 33,
-      "movement": "=",
+      "rank": 44,
+      "movement": "-11",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Be Mine",
+      "country": "Japan",
+      "rank": 31,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     }
@@ -136,7 +136,7 @@
       "title": "Who",
       "country": "Japan",
       "rank": 80,
-      "movement": "-37",
+      "movement": "-25",
       "type": "single",
       "isTop1": false
     }
@@ -150,6 +150,12 @@
     },
     {
       "title": "Like Crazy",
+      "type": "single",
+      "deezerTop1": 0,
+      "shazamTop1": 0
+    },
+    {
+      "title": "Be Mine",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
