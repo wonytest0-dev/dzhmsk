@@ -1,22 +1,26 @@
-name: Update Deezer Shazam
+name: Update Deezer & Shazam Data
 
 on:
-  schedule:
-    # 11 pagi - 6 sore WIB (UTC+7)
-    - cron: "0 4-11 * * *"
-
   workflow_dispatch:
-
-permissions:
-  contents: write
+  schedule:
+    # Menjalankan setiap jam dari 04:00 sampai 11:00 UTC (11:00 sampai 18:00 WIB)
+    - cron: '0 4-11 * * *'
 
 jobs:
-  update:
+  update-deezer-shazam:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repo
+      - name: Checkout Etalase (dzhmsk)
         uses: actions/checkout@v4
+
+      - name: Checkout Dapur (shazam-private)
+        uses: actions/checkout@v4
+        with:
+          repository: wonytest0-dev/shazam-private
+          path: shazam-private
+          token: ${{ secrets.PAT_SHAZAM }}
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -24,21 +28,25 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
+        working-directory: shazam-private
         run: npm install
 
-      - name: Install Playwright browser
-        run: npx playwright install chromium
-
-      - name: Run scraper
-        run: node deezer-shazam.js
-
-      - name: Commit updated JSON
+      - name: Jalankan Scraper
+        working-directory: shazam-private
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Install browser untuk Playwright
+          npx playwright install chromium
+          
+          # Jalankan skrip utama
+          node deezer-shazam.js
+          
+          # Copy hasil JSON dari Dapur ke Etalase
+          cp data/jimin-deezer-shazam.json ../data/
 
+      - name: Commit dan Push ke Etalase
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/jimin-deezer-shazam.json
-
-          git diff --cached --quiet || git commit -m "auto update deezer shazam"
-
+          git diff --staged --quiet || git commit -m "Auto update Deezer Shazam data"
           git push
