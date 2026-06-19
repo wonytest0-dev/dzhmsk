@@ -1,6 +1,6 @@
 {
-  "updatedAt": "18/06/2026, 21:18:51 KST",
-  "totalEntries": 15,
+  "updatedAt": "19/06/2026, 18:02:14 KST",
+  "totalEntries": 12,
   "deezer": [
     {
       "title": "Who",
@@ -20,6 +20,14 @@
     },
     {
       "title": "Who",
+      "country": "Singapore",
+      "rank": 1,
+      "movement": "+4",
+      "type": "single",
+      "isTop1": true
+    },
+    {
+      "title": "Who",
       "country": "Argentina",
       "rank": 2,
       "movement": "=",
@@ -29,64 +37,32 @@
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 4,
-      "movement": "+1",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Philippines",
-      "rank": 5,
-      "movement": "+2",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 5,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Philippines",
-      "rank": 8,
-      "movement": "+35",
+      "rank": 20,
+      "movement": "-15",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Austria",
-      "rank": 19,
-      "movement": "+1",
+      "rank": 21,
+      "movement": "-2",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 27,
-      "movement": "NE",
+      "rank": 26,
+      "movement": "-22",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 28,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Philippines",
-      "rank": 29,
-      "movement": "NE",
+      "rank": 51,
+      "movement": "-43",
       "type": "single",
       "isTop1": false
     },
@@ -109,8 +85,8 @@
     {
       "title": "Be Mine",
       "country": "Japan",
-      "rank": 5,
-      "movement": "NE",
+      "rank": 3,
+      "movement": "+2",
       "type": "single",
       "isTop1": false
     }
@@ -119,8 +95,8 @@
     {
       "title": "Who",
       "country": "Japan",
-      "rank": 77,
-      "movement": "-7",
+      "rank": 68,
+      "movement": "+9",
       "type": "single",
       "isTop1": false
     }
@@ -129,7 +105,7 @@
     {
       "title": "Who",
       "type": "single",
-      "deezerTop1": 2,
+      "deezerTop1": 3,
       "shazamTop1": 0
     },
     {
