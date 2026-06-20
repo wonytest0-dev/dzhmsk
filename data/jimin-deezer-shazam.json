@@ -1,6 +1,6 @@
 {
-  "updatedAt": "20/06/2026, 16:44:52 KST",
-  "totalEntries": 12,
+  "updatedAt": "20/06/2026, 19:28:19 KST",
+  "totalEntries": 13,
   "deezer": [
     {
       "title": "Who",
@@ -20,14 +20,6 @@
     },
     {
       "title": "Who",
-      "country": "Singapore",
-      "rank": 1,
-      "movement": "+4",
-      "type": "single",
-      "isTop1": true
-    },
-    {
-      "title": "Who",
       "country": "Argentina",
       "rank": 2,
       "movement": "=",
@@ -36,9 +28,9 @@
     },
     {
       "title": "Who",
-      "country": "Philippines",
-      "rank": 20,
-      "movement": "-15",
+      "country": "Singapore",
+      "rank": 2,
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
@@ -46,23 +38,31 @@
       "title": "Who",
       "country": "Austria",
       "rank": 21,
-      "movement": "-2",
+      "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Chile",
+      "rank": 49,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 26,
-      "movement": "-22",
+      "rank": 79,
+      "movement": "-53",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 51,
-      "movement": "-43",
+      "rank": 97,
+      "movement": "-46",
       "type": "single",
       "isTop1": false
     },
@@ -83,10 +83,18 @@
       "isTop1": false
     },
     {
+      "title": "Like Crazy",
+      "country": "Philippines",
+      "rank": 50,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
       "title": "Be Mine",
       "country": "Japan",
-      "rank": 3,
-      "movement": "+2",
+      "rank": 6,
+      "movement": "-3",
       "type": "single",
       "isTop1": false
     }
@@ -105,7 +113,7 @@
     {
       "title": "Who",
       "type": "single",
-      "deezerTop1": 3,
+      "deezerTop1": 2,
       "shazamTop1": 0
     },
     {
