@@ -1,6 +1,6 @@
 {
-  "updatedAt": "21/06/2026, 20:40:39 KST",
-  "totalEntries": 12,
+  "updatedAt": "22/06/2026, 18:41:55 KST",
+  "totalEntries": 11,
   "deezer": [
     {
       "title": "Who",
@@ -29,40 +29,40 @@
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 6,
-      "movement": "-5",
+      "rank": 4,
+      "movement": "+2",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Austria",
-      "rank": 20,
+      "rank": 15,
+      "movement": "+5",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 57,
+      "movement": "+27",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 74,
+      "movement": "-13",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Be Mine",
+      "country": "Japan",
+      "rank": 4,
       "movement": "+1",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Saudi Arabia",
-      "rank": 28,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Philippines",
-      "rank": 61,
-      "movement": "+18",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Philippines",
-      "rank": 84,
-      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -77,15 +77,7 @@
     {
       "title": "Like Crazy",
       "country": "Argentina",
-      "rank": 4,
-      "movement": "-1",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Be Mine",
-      "country": "Japan",
-      "rank": 5,
+      "rank": 3,
       "movement": "+1",
       "type": "single",
       "isTop1": false
@@ -95,7 +87,7 @@
     {
       "title": "Who",
       "country": "Japan",
-      "rank": 55,
+      "rank": 47,
       "movement": "+8",
       "type": "single",
       "isTop1": false
@@ -109,13 +101,13 @@
       "shazamTop1": 0
     },
     {
-      "title": "Like Crazy",
+      "title": "Be Mine",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
     },
     {
-      "title": "Be Mine",
+      "title": "Like Crazy",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
