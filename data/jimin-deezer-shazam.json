@@ -1,12 +1,20 @@
 {
-  "updatedAt": "24/06/2026, 16:34:55 KST",
-  "totalEntries": 15,
+  "updatedAt": "24/06/2026, 19:43:17 KST",
+  "totalEntries": 19,
   "deezer": [
     {
       "title": "Who",
       "country": "Japan",
       "rank": 1,
       "movement": "=",
+      "type": "single",
+      "isTop1": true
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 1,
+      "movement": "+2",
       "type": "single",
       "isTop1": true
     },
@@ -20,25 +28,73 @@
     },
     {
       "title": "Who",
+      "country": "Singapore",
+      "rank": 3,
+      "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
       "country": "Philippines",
-      "rank": 3,
-      "movement": "+1",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 3,
-      "movement": "-1",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 13,
+      "rank": 4,
       "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 8,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Singapore",
+      "rank": 8,
+      "movement": "+5",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Singapore",
+      "rank": 9,
+      "movement": "+5",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Singapore",
+      "rank": 10,
+      "movement": "+6",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Singapore",
+      "rank": 11,
+      "movement": "+6",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 12,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Singapore",
+      "rank": 12,
+      "movement": "+11",
       "type": "single",
       "isTop1": false
     },
@@ -46,55 +102,23 @@
       "title": "Who",
       "country": "Singapore",
       "rank": 14,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 15,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 16,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 17,
-      "movement": "NE",
+      "movement": "+1",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Austria",
-      "rank": 20,
-      "movement": "-5",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 23,
-      "movement": "NE",
+      "rank": 16,
+      "movement": "+4",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Chile",
-      "rank": 61,
-      "movement": "NE",
+      "rank": 54,
+      "movement": "+7",
       "type": "single",
       "isTop1": false
     },
@@ -109,8 +133,16 @@
     {
       "title": "Like Crazy",
       "country": "Argentina",
-      "rank": 11,
-      "movement": "-8",
+      "rank": 3,
+      "movement": "+8",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Like Crazy",
+      "country": "Philippines",
+      "rank": 39,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     }
@@ -129,7 +161,7 @@
     {
       "title": "Who",
       "type": "single",
-      "deezerTop1": 1,
+      "deezerTop1": 2,
       "shazamTop1": 0
     },
     {
