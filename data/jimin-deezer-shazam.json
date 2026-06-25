@@ -1,6 +1,6 @@
 {
-  "updatedAt": "25/06/2026, 19:36:30 KST",
-  "totalEntries": 19,
+  "updatedAt": "25/06/2026, 22:13:05 KST",
+  "totalEntries": 11,
   "deezer": [
     {
       "title": "Who",
@@ -28,6 +28,14 @@
     },
     {
       "title": "Who",
+      "country": "Philippines",
+      "rank": 3,
+      "movement": "+1",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
       "country": "Singapore",
       "rank": 3,
       "movement": "=",
@@ -38,87 +46,23 @@
       "title": "Who",
       "country": "Philippines",
       "rank": 4,
-      "movement": "=",
+      "movement": "+4",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 8,
-      "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 8,
-      "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 9,
-      "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 10,
-      "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 11,
-      "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Philippines",
-      "rank": 12,
-      "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 12,
-      "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 14,
-      "movement": "=",
+      "rank": 6,
+      "movement": "+6",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Austria",
-      "rank": 16,
-      "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Chile",
-      "rank": 54,
-      "movement": "=",
+      "rank": 25,
+      "movement": "-9",
       "type": "single",
       "isTop1": false
     },
@@ -134,14 +78,6 @@
       "title": "Like Crazy",
       "country": "Argentina",
       "rank": 3,
-      "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Like Crazy",
-      "country": "Philippines",
-      "rank": 39,
       "movement": "=",
       "type": "single",
       "isTop1": false
