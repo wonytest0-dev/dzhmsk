@@ -1,6 +1,6 @@
 {
-  "updatedAt": "28/06/2026, 16:45:21 KST",
-  "totalEntries": 8,
+  "updatedAt": "28/06/2026, 19:22:49 KST",
+  "totalEntries": 15,
   "deezer": [
     {
       "title": "Who",
@@ -21,16 +21,72 @@
     {
       "title": "Who",
       "country": "Singapore",
-      "rank": 8,
-      "movement": "-7",
+      "rank": 2,
+      "movement": "+6",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Austria",
-      "rank": 20,
-      "movement": "-4",
+      "rank": 17,
+      "movement": "+3",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 19,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 55,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 61,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 62,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 63,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 64,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 76,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -45,16 +101,16 @@
     {
       "title": "Like Crazy",
       "country": "Argentina",
-      "rank": 7,
-      "movement": "NE",
+      "rank": 5,
+      "movement": "+2",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Be Mine",
       "country": "Japan",
-      "rank": 12,
-      "movement": "-9",
+      "rank": 4,
+      "movement": "+8",
       "type": "single",
       "isTop1": false
     }
