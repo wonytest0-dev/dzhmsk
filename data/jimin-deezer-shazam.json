@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30/06/2026, 16:44:40 KST",
-  "totalEntries": 7,
+  "updatedAt": "30/06/2026, 19:50:38 KST",
+  "totalEntries": 6,
   "deezer": [
     {
       "title": "Like Crazy",
@@ -22,31 +22,23 @@
       "title": "Like Crazy",
       "country": "Saudi Arabia",
       "rank": 32,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Like Crazy",
-      "country": "Philippines",
-      "rank": 89,
-      "movement": "NE",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Be Mine",
       "country": "Saudi Arabia",
-      "rank": 5,
-      "movement": "NE",
+      "rank": 3,
+      "movement": "+2",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Be Mine",
       "country": "Japan",
-      "rank": 17,
-      "movement": "-13",
+      "rank": 4,
+      "movement": "+13",
       "type": "single",
       "isTop1": false
     }
