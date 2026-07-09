@@ -1,6 +1,6 @@
 {
-  "updatedAt": "08/07/2026, 20:43:29 KST",
-  "totalEntries": 8,
+  "updatedAt": "09/07/2026, 16:36:54 KST",
+  "totalEntries": 6,
   "deezer": [
     {
       "title": "Who",
@@ -14,7 +14,7 @@
       "title": "Who",
       "country": "Philippines",
       "rank": 23,
-      "movement": "-21",
+      "movement": "-20",
       "type": "single",
       "isTop1": false
     },
@@ -22,7 +22,7 @@
       "title": "Who",
       "country": "Philippines",
       "rank": 24,
-      "movement": "-21",
+      "movement": "-20",
       "type": "single",
       "isTop1": false
     },
@@ -30,7 +30,7 @@
       "title": "Who",
       "country": "Argentina",
       "rank": 56,
-      "movement": "-54",
+      "movement": "-55",
       "type": "single",
       "isTop1": false
     },
@@ -48,23 +48,7 @@
       "title": "Who",
       "country": "Japan",
       "rank": 24,
-      "movement": "+4",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 192,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Bulgaria",
-      "rank": 200,
-      "movement": "NE",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     }
