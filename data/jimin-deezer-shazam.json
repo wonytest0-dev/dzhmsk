@@ -1,45 +1,37 @@
 {
-  "updatedAt": "11/07/2026, 15:08:05 KST",
-  "totalEntries": 4,
+  "updatedAt": "11/07/2026, 17:43:22 KST",
+  "totalEntries": 3,
   "deezer": [
     {
-      "title": "Online Video",
-      "country": "Argentina",
-      "rank": 18,
-      "movement": "+49",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Online Video",
+      "title": "Who",
       "country": "Japan",
-      "rank": 30,
-      "movement": "-28",
+      "rank": 17,
+      "movement": "+13",
       "type": "single",
       "isTop1": false
     }
   ],
   "shazam": [
     {
-      "title": "Online Video",
+      "title": "Who",
       "country": "Japan",
       "rank": 25,
-      "movement": "-1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
     {
-      "title": "Online Video",
+      "title": "Who",
       "country": "Bulgaria",
       "rank": 184,
-      "movement": "NE",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     }
   ],
   "summary": [
     {
-      "title": "Online Video",
+      "title": "Who",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
