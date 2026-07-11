@@ -1,9 +1,9 @@
 {
-  "updatedAt": "11/07/2026, 17:43:22 KST",
-  "totalEntries": 3,
+  "updatedAt": "11/07/2026, 19:10:33 KST",
+  "totalEntries": 4,
   "deezer": [
     {
-      "title": "Who",
+      "title": "iTunes affiliate program",
       "country": "Japan",
       "rank": 17,
       "movement": "+13",
@@ -13,7 +13,7 @@
   ],
   "shazam": [
     {
-      "title": "Who",
+      "title": "iTunes affiliate program",
       "country": "Japan",
       "rank": 25,
       "movement": "=",
@@ -21,17 +21,25 @@
       "isTop1": false
     },
     {
-      "title": "Who",
+      "title": "iTunes affiliate program",
+      "country": "Singapore",
+      "rank": 183,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "iTunes affiliate program",
       "country": "Bulgaria",
-      "rank": 184,
-      "movement": "=",
+      "rank": 195,
+      "movement": "-11",
       "type": "single",
       "isTop1": false
     }
   ],
   "summary": [
     {
-      "title": "Who",
+      "title": "iTunes affiliate program",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
