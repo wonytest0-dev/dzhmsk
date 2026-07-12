@@ -1,9 +1,9 @@
 {
-  "updatedAt": "11/07/2026, 20:46:45 KST",
+  "updatedAt": "12/07/2026, 15:27:40 KST",
   "totalEntries": 4,
   "deezer": [
     {
-      "title": "Spotify artist page",
+      "title": "Custom data reports",
       "country": "Japan",
       "rank": 17,
       "movement": "+13",
@@ -13,7 +13,7 @@
   ],
   "shazam": [
     {
-      "title": "Spotify artist page",
+      "title": "Custom data reports",
       "country": "Japan",
       "rank": 25,
       "movement": "=",
@@ -21,7 +21,7 @@
       "isTop1": false
     },
     {
-      "title": "Spotify artist page",
+      "title": "Custom data reports",
       "country": "Singapore",
       "rank": 183,
       "movement": "NE",
@@ -29,7 +29,7 @@
       "isTop1": false
     },
     {
-      "title": "Spotify artist page",
+      "title": "Custom data reports",
       "country": "Bulgaria",
       "rank": 195,
       "movement": "-11",
@@ -39,7 +39,7 @@
   ],
   "summary": [
     {
-      "title": "Spotify artist page",
+      "title": "Custom data reports",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
