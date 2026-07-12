@@ -1,9 +1,9 @@
 {
-  "updatedAt": "12/07/2026, 17:59:03 KST",
-  "totalEntries": 4,
+  "updatedAt": "12/07/2026, 19:36:08 KST",
+  "totalEntries": 3,
   "deezer": [
     {
-      "title": "Music royalties calculator",
+      "title": "Artist performance tracking",
       "country": "Japan",
       "rank": 7,
       "movement": "+10",
@@ -13,7 +13,7 @@
   ],
   "shazam": [
     {
-      "title": "Music royalties calculator",
+      "title": "Artist performance tracking",
       "country": "Japan",
       "rank": 28,
       "movement": "-3",
@@ -21,25 +21,17 @@
       "isTop1": false
     },
     {
-      "title": "Music royalties calculator",
-      "country": "Singapore",
-      "rank": 183,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Music royalties calculator",
+      "title": "Artist performance tracking",
       "country": "Bulgaria",
-      "rank": 195,
-      "movement": "-11",
+      "rank": 176,
+      "movement": "+19",
       "type": "single",
       "isTop1": false
     }
   ],
   "summary": [
     {
-      "title": "Music royalties calculator",
+      "title": "Artist performance tracking",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
