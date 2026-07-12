@@ -1,27 +1,27 @@
 {
-  "updatedAt": "12/07/2026, 15:27:40 KST",
+  "updatedAt": "12/07/2026, 17:59:03 KST",
   "totalEntries": 4,
   "deezer": [
     {
-      "title": "Custom data reports",
+      "title": "Music royalties calculator",
       "country": "Japan",
-      "rank": 17,
-      "movement": "+13",
+      "rank": 7,
+      "movement": "+10",
       "type": "single",
       "isTop1": false
     }
   ],
   "shazam": [
     {
-      "title": "Custom data reports",
+      "title": "Music royalties calculator",
       "country": "Japan",
-      "rank": 25,
-      "movement": "=",
+      "rank": 28,
+      "movement": "-3",
       "type": "single",
       "isTop1": false
     },
     {
-      "title": "Custom data reports",
+      "title": "Music royalties calculator",
       "country": "Singapore",
       "rank": 183,
       "movement": "NE",
@@ -29,7 +29,7 @@
       "isTop1": false
     },
     {
-      "title": "Custom data reports",
+      "title": "Music royalties calculator",
       "country": "Bulgaria",
       "rank": 195,
       "movement": "-11",
@@ -39,7 +39,7 @@
   ],
   "summary": [
     {
-      "title": "Custom data reports",
+      "title": "Music royalties calculator",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
