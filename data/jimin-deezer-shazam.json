@@ -1,9 +1,9 @@
 {
-  "updatedAt": "12/07/2026, 19:36:08 KST",
+  "updatedAt": "12/07/2026, 20:53:03 KST",
   "totalEntries": 3,
   "deezer": [
     {
-      "title": "Artist performance tracking",
+      "title": "Music industry insights",
       "country": "Japan",
       "rank": 7,
       "movement": "+10",
@@ -13,7 +13,7 @@
   ],
   "shazam": [
     {
-      "title": "Artist performance tracking",
+      "title": "Music industry insights",
       "country": "Japan",
       "rank": 28,
       "movement": "-3",
@@ -21,7 +21,7 @@
       "isTop1": false
     },
     {
-      "title": "Artist performance tracking",
+      "title": "Music industry insights",
       "country": "Bulgaria",
       "rank": 176,
       "movement": "+19",
@@ -31,7 +31,7 @@
   ],
   "summary": [
     {
-      "title": "Artist performance tracking",
+      "title": "Music industry insights",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
