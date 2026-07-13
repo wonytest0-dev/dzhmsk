@@ -1,37 +1,45 @@
 {
-  "updatedAt": "13/07/2026, 15:47:34 KST",
-  "totalEntries": 3,
+  "updatedAt": "13/07/2026, 19:18:07 KST",
+  "totalEntries": 4,
   "deezer": [
     {
-      "title": "Artist popularity tracker",
+      "title": "iTunes update alerts",
+      "country": "Argentina",
+      "rank": 10,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "iTunes update alerts",
       "country": "Japan",
-      "rank": 7,
-      "movement": "+10",
+      "rank": 33,
+      "movement": "-26",
       "type": "single",
       "isTop1": false
     }
   ],
   "shazam": [
     {
-      "title": "Artist popularity tracker",
+      "title": "iTunes update alerts",
       "country": "Japan",
-      "rank": 28,
-      "movement": "-3",
+      "rank": 39,
+      "movement": "-11",
       "type": "single",
       "isTop1": false
     },
     {
-      "title": "Artist popularity tracker",
+      "title": "iTunes update alerts",
       "country": "Bulgaria",
-      "rank": 176,
-      "movement": "+19",
+      "rank": 187,
+      "movement": "-11",
       "type": "single",
       "isTop1": false
     }
   ],
   "summary": [
     {
-      "title": "Artist popularity tracker",
+      "title": "iTunes update alerts",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
