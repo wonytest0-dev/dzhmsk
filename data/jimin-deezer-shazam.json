@@ -1,9 +1,9 @@
 {
-  "updatedAt": "13/07/2026, 22:13:58 KST",
+  "updatedAt": "14/07/2026, 15:05:12 KST",
   "totalEntries": 4,
   "deezer": [
     {
-      "title": "Music Videos",
+      "title": "Who",
       "country": "Argentina",
       "rank": 10,
       "movement": "NE",
@@ -11,7 +11,7 @@
       "isTop1": false
     },
     {
-      "title": "Music Videos",
+      "title": "Who",
       "country": "Japan",
       "rank": 33,
       "movement": "-26",
@@ -21,7 +21,7 @@
   ],
   "shazam": [
     {
-      "title": "Music Videos",
+      "title": "Who",
       "country": "Japan",
       "rank": 39,
       "movement": "-11",
@@ -29,7 +29,7 @@
       "isTop1": false
     },
     {
-      "title": "Music Videos",
+      "title": "Who",
       "country": "Bulgaria",
       "rank": 187,
       "movement": "-11",
@@ -39,7 +39,7 @@
   ],
   "summary": [
     {
-      "title": "Music Videos",
+      "title": "Who",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
