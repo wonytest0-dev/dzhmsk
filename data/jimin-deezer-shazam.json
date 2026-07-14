@@ -1,5 +1,5 @@
 {
-  "updatedAt": "14/07/2026, 18:00:54 KST",
+  "updatedAt": "14/07/2026, 20:20:25 KST",
   "totalEntries": 4,
   "deezer": [
     {
@@ -31,8 +31,8 @@
     {
       "title": "Who",
       "country": "Bulgaria",
-      "rank": 187,
-      "movement": "-11",
+      "rank": 175,
+      "movement": "+12",
       "type": "single",
       "isTop1": false
     }
