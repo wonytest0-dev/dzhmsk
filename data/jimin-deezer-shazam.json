@@ -1,20 +1,12 @@
 {
-  "updatedAt": "20/07/2026, 15:40:14 KST",
-  "totalEntries": 3,
+  "updatedAt": "20/07/2026, 18:52:51 KST",
+  "totalEntries": 2,
   "deezer": [
     {
       "title": "Who",
       "country": "Japan",
-      "rank": 35,
-      "movement": "+4",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Philippines",
-      "rank": 47,
-      "movement": "-41",
+      "rank": 16,
+      "movement": "+19",
       "type": "single",
       "isTop1": false
     }
@@ -23,8 +15,8 @@
     {
       "title": "Who",
       "country": "Japan",
-      "rank": 44,
-      "movement": "+17",
+      "rank": 47,
+      "movement": "-3",
       "type": "single",
       "isTop1": false
     }
