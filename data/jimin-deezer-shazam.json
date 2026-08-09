@@ -1,6 +1,6 @@
 {
-  "updatedAt": "09/08/2026, 19:25:23 KST",
-  "totalEntries": 5,
+  "updatedAt": "09/08/2026, 20:22:17 KST",
+  "totalEntries": 12,
   "deezer": [
     {
       "title": "Who",
@@ -12,17 +12,73 @@
     },
     {
       "title": "Who",
+      "country": "Singapore",
+      "rank": 1,
+      "movement": "+7",
+      "type": "single",
+      "isTop1": true
+    },
+    {
+      "title": "Who",
       "country": "Japan",
-      "rank": 7,
-      "movement": "=",
+      "rank": 5,
+      "movement": "+2",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Singapore",
-      "rank": 8,
-      "movement": "=",
+      "rank": 14,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Singapore",
+      "rank": 15,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 16,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Singapore",
+      "rank": 16,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Singapore",
+      "rank": 17,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Singapore",
+      "rank": 18,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Singapore",
+      "rank": 22,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -49,7 +105,7 @@
     {
       "title": "Who",
       "type": "single",
-      "deezerTop1": 1,
+      "deezerTop1": 2,
       "shazamTop1": 0
     },
     {
