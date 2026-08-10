@@ -1,6 +1,6 @@
 {
-  "updatedAt": "10/08/2026, 16:16:59 KST",
-  "totalEntries": 12,
+  "updatedAt": "10/08/2026, 18:10:53 KST",
+  "totalEntries": 6,
   "deezer": [
     {
       "title": "Who",
@@ -13,80 +13,32 @@
     {
       "title": "Who",
       "country": "Singapore",
-      "rank": 1,
-      "movement": "+7",
-      "type": "single",
-      "isTop1": true
-    },
-    {
-      "title": "Who",
-      "country": "Japan",
-      "rank": 5,
-      "movement": "+2",
+      "rank": 3,
+      "movement": "+5",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
-      "country": "Singapore",
-      "rank": 14,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 15,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Philippines",
-      "rank": 16,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 16,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 17,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 18,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
+      "country": "Saudi Arabia",
       "rank": 22,
       "movement": "NE",
       "type": "single",
       "isTop1": false
     },
     {
+      "title": "Who",
+      "country": "Japan",
+      "rank": 86,
+      "movement": "-79",
+      "type": "single",
+      "isTop1": false
+    },
+    {
       "title": "Like Crazy",
       "country": "Argentina",
-      "rank": 2,
-      "movement": "=",
+      "rank": 3,
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     }
@@ -105,7 +57,7 @@
     {
       "title": "Who",
       "type": "single",
-      "deezerTop1": 2,
+      "deezerTop1": 1,
       "shazamTop1": 0
     },
     {
