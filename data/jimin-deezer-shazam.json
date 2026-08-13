@@ -1,6 +1,6 @@
 {
-  "updatedAt": "13/08/2026, 16:16:01 KST",
-  "totalEntries": 5,
+  "updatedAt": "13/08/2026, 18:05:03 KST",
+  "totalEntries": 7,
   "deezer": [
     {
       "title": "Who",
@@ -13,16 +13,32 @@
     {
       "title": "Who",
       "country": "Japan",
-      "rank": 10,
-      "movement": "+38",
+      "rank": 1,
+      "movement": "+47",
+      "type": "single",
+      "isTop1": true
+    },
+    {
+      "title": "Who",
+      "country": "Hungary",
+      "rank": 3,
+      "movement": "+8",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Like Crazy",
+      "country": "Japan",
+      "rank": 2,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Like Crazy",
       "country": "Argentina",
-      "rank": 2,
-      "movement": "+1",
+      "rank": 3,
+      "movement": "=",
       "type": "single",
       "isTop1": false
     }
@@ -49,7 +65,7 @@
     {
       "title": "Who",
       "type": "single",
-      "deezerTop1": 1,
+      "deezerTop1": 2,
       "shazamTop1": 0
     },
     {
