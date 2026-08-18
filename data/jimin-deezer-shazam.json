@@ -1,28 +1,84 @@
 {
-  "updatedAt": "18/08/2026, 19:20:26 KST",
-  "totalEntries": 4,
+  "updatedAt": "18/08/2026, 20:18:25 KST",
+  "totalEntries": 11,
   "deezer": [
     {
       "title": "Who",
       "country": "Argentina",
+      "rank": 1,
+      "movement": "+2",
+      "type": "single",
+      "isTop1": true
+    },
+    {
+      "title": "Who",
+      "country": "Singapore",
       "rank": 3,
-      "movement": "=",
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Japan",
-      "rank": 4,
-      "movement": "=",
+      "rank": 19,
+      "movement": "-15",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Singapore",
+      "rank": 34,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Singapore",
+      "rank": 35,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Singapore",
+      "rank": 40,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Singapore",
+      "rank": 41,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Singapore",
+      "rank": 43,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Singapore",
+      "rank": 44,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Like Crazy",
       "country": "Argentina",
-      "rank": 5,
-      "movement": "=",
+      "rank": 2,
+      "movement": "+3",
       "type": "single",
       "isTop1": false
     }
@@ -41,7 +97,7 @@
     {
       "title": "Who",
       "type": "single",
-      "deezerTop1": 0,
+      "deezerTop1": 1,
       "shazamTop1": 0
     },
     {
