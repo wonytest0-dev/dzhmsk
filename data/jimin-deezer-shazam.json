@@ -1,12 +1,12 @@
 {
-  "updatedAt": "19/08/2026, 19:21:03 KST",
+  "updatedAt": "19/08/2026, 20:18:31 KST",
   "totalEntries": 11,
   "deezer": [
     {
       "title": "Who",
       "country": "Argentina",
       "rank": 1,
-      "movement": "+2",
+      "movement": "=",
       "type": "single",
       "isTop1": true
     },
@@ -14,7 +14,7 @@
       "title": "Who",
       "country": "Singapore",
       "rank": 3,
-      "movement": "NE",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -22,7 +22,7 @@
       "title": "Who",
       "country": "Japan",
       "rank": 19,
-      "movement": "-15",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -30,7 +30,7 @@
       "title": "Who",
       "country": "Singapore",
       "rank": 34,
-      "movement": "NE",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -38,7 +38,7 @@
       "title": "Who",
       "country": "Singapore",
       "rank": 35,
-      "movement": "NE",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -46,7 +46,7 @@
       "title": "Who",
       "country": "Singapore",
       "rank": 40,
-      "movement": "NE",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -54,7 +54,7 @@
       "title": "Who",
       "country": "Singapore",
       "rank": 41,
-      "movement": "NE",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -62,7 +62,7 @@
       "title": "Who",
       "country": "Singapore",
       "rank": 43,
-      "movement": "NE",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -70,7 +70,7 @@
       "title": "Who",
       "country": "Singapore",
       "rank": 44,
-      "movement": "NE",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -78,7 +78,7 @@
       "title": "Like Crazy",
       "country": "Argentina",
       "rank": 2,
-      "movement": "+3",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     }
