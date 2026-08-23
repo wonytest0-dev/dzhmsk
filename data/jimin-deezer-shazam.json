@@ -1,6 +1,6 @@
 {
-  "updatedAt": "23/08/2026, 16:27:12 KST",
-  "totalEntries": 5,
+  "updatedAt": "23/08/2026, 17:20:58 KST",
+  "totalEntries": 10,
   "deezer": [
     {
       "title": "Who",
@@ -12,9 +12,33 @@
     },
     {
       "title": "Who",
+      "country": "Saudi Arabia",
+      "rank": 3,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 4,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
       "country": "Japan",
-      "rank": 72,
-      "movement": "+12",
+      "rank": 10,
+      "movement": "+74",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Singapore",
+      "rank": 32,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -23,6 +47,22 @@
       "country": "Argentina",
       "rank": 3,
       "movement": "+1",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Like Crazy",
+      "country": "Saudi Arabia",
+      "rank": 19,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Be Mine",
+      "country": "Saudi Arabia",
+      "rank": 4,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     }
@@ -54,6 +94,12 @@
     },
     {
       "title": "Like Crazy",
+      "type": "single",
+      "deezerTop1": 0,
+      "shazamTop1": 0
+    },
+    {
+      "title": "Be Mine",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
