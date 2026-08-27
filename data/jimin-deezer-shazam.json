@@ -1,28 +1,36 @@
 {
-  "updatedAt": "26/08/2026, 20:21:49 KST",
+  "updatedAt": "27/08/2026, 23:54:14 KST",
   "totalEntries": 5,
   "deezer": [
     {
       "title": "Who",
-      "country": "Argentina",
-      "rank": 3,
-      "movement": "+11",
+      "country": "Japan",
+      "rank": 16,
+      "movement": "+34",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
-      "country": "Japan",
-      "rank": 50,
-      "movement": "-21",
+      "country": "Argentina",
+      "rank": 32,
+      "movement": "-29",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Chile",
+      "rank": 77,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Like Crazy",
       "country": "Argentina",
-      "rank": 5,
-      "movement": "+43",
+      "rank": 55,
+      "movement": "-50",
       "type": "single",
       "isTop1": false
     }
@@ -31,16 +39,8 @@
     {
       "title": "Who",
       "country": "Japan",
-      "rank": 46,
-      "movement": "-2",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 186,
-      "movement": "-22",
+      "rank": 39,
+      "movement": "+7",
       "type": "single",
       "isTop1": false
     }
