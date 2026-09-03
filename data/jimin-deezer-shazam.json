@@ -1,12 +1,12 @@
 {
-  "updatedAt": "02/09/2026, 22:08:13 KST",
+  "updatedAt": "03/09/2026, 17:26:46 KST",
   "totalEntries": 2,
   "deezer": [
     {
       "title": "Who",
       "country": "Argentina",
       "rank": 23,
-      "movement": "-21",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     }
