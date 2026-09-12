@@ -1,16 +1,7 @@
 {
-  "updatedAt": "11/09/2026, 22:09:14 KST",
-  "totalEntries": 2,
-  "deezer": [
-    {
-      "title": "Like Crazy",
-      "country": "Honduras",
-      "rank": 27,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    }
-  ],
+  "updatedAt": "12/09/2026, 17:16:14 KST",
+  "totalEntries": 1,
+  "deezer": [],
   "shazam": [
     {
       "title": "Who",
@@ -24,12 +15,6 @@
   "summary": [
     {
       "title": "Who",
-      "type": "single",
-      "deezerTop1": 0,
-      "shazamTop1": 0
-    },
-    {
-      "title": "Like Crazy",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
