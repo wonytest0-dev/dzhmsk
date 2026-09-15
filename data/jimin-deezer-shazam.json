@@ -1,7 +1,24 @@
 {
-  "updatedAt": "15/09/2026, 01:05:45 KST",
-  "totalEntries": 1,
-  "deezer": [],
+  "updatedAt": "15/09/2026, 18:06:27 KST",
+  "totalEntries": 3,
+  "deezer": [
+    {
+      "title": "Who",
+      "country": "Japan",
+      "rank": 3,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Argentina",
+      "rank": 6,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    }
+  ],
   "shazam": [
     {
       "title": "Who",
