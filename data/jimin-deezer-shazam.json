@@ -1,12 +1,12 @@
 {
-  "updatedAt": "25/09/2026, 18:15:15 KST",
+  "updatedAt": "25/09/2026, 23:54:05 KST",
   "totalEntries": 3,
   "deezer": [
     {
       "title": "Who",
       "country": "Japan",
       "rank": 50,
-      "movement": "NE",
+      "movement": "-38",
       "type": "single",
       "isTop1": false
     },
@@ -14,7 +14,7 @@
       "title": "Like Crazy",
       "country": "Argentina",
       "rank": 30,
-      "movement": "NE",
+      "movement": "-25",
       "type": "single",
       "isTop1": false
     }
