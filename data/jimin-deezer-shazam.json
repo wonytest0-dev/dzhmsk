@@ -1,21 +1,21 @@
 {
-  "updatedAt": "11/10/2026, 01:04:26 KST",
+  "updatedAt": "11/10/2026, 19:28:54 KST",
   "totalEntries": 2,
   "deezer": [],
   "shazam": [
     {
       "title": "Who",
       "country": "Japan",
-      "rank": 79,
-      "movement": "-12",
+      "rank": 69,
+      "movement": "+10",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Bulgaria",
-      "rank": 200,
-      "movement": "NE",
+      "rank": 185,
+      "movement": "+15",
       "type": "single",
       "isTop1": false
     }
