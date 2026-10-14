@@ -1,12 +1,12 @@
 {
-  "updatedAt": "13/10/2026, 20:19:30 KST",
-  "totalEntries": 5,
+  "updatedAt": "14/10/2026, 18:11:07 KST",
+  "totalEntries": 6,
   "deezer": [
     {
       "title": "Who",
       "country": "Japan",
       "rank": 26,
-      "movement": "+27",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -14,7 +14,7 @@
       "title": "Who",
       "country": "Algeria",
       "rank": 59,
-      "movement": "-15",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -22,7 +22,7 @@
       "title": "Be Mine",
       "country": "Malaysia",
       "rank": 48,
-      "movement": "+47",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -30,7 +30,7 @@
       "title": "Like Crazy",
       "country": "Malaysia",
       "rank": 40,
-      "movement": "NE",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     }
@@ -39,8 +39,16 @@
     {
       "title": "Who",
       "country": "Japan",
-      "rank": 57,
+      "rank": 47,
       "movement": "+10",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Bulgaria",
+      "rank": 158,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     }
