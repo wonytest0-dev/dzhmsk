@@ -1,12 +1,44 @@
 {
-  "updatedAt": "15/10/2026, 22:50:07 KST",
-  "totalEntries": 3,
+  "updatedAt": "16/10/2026, 17:39:36 KST",
+  "totalEntries": 7,
   "deezer": [
     {
       "title": "Who",
+      "country": "Malaysia",
+      "rank": 12,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Costa Rica",
+      "rank": 20,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
       "country": "Japan",
-      "rank": 75,
-      "movement": "-49",
+      "rank": 58,
+      "movement": "+17",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Be Mine",
+      "country": "Malaysia",
+      "rank": 11,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Like Crazy",
+      "country": "Costa Rica",
+      "rank": 17,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     }
@@ -15,16 +47,16 @@
     {
       "title": "Who",
       "country": "Japan",
-      "rank": 42,
-      "movement": "+5",
+      "rank": 36,
+      "movement": "+6",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Bulgaria",
-      "rank": 171,
-      "movement": "-13",
+      "rank": 159,
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     }
@@ -32,6 +64,18 @@
   "summary": [
     {
       "title": "Who",
+      "type": "single",
+      "deezerTop1": 0,
+      "shazamTop1": 0
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "deezerTop1": 0,
+      "shazamTop1": 0
+    },
+    {
+      "title": "Like Crazy",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
