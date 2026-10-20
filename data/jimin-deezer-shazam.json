@@ -1,28 +1,20 @@
 {
-  "updatedAt": "20/10/2026, 01:43:45 KST",
-  "totalEntries": 7,
+  "updatedAt": "20/10/2026, 18:02:33 KST",
+  "totalEntries": 5,
   "deezer": [
     {
       "title": "Who",
       "country": "Algeria",
-      "rank": 3,
+      "rank": 54,
+      "movement": "-51",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Japan",
+      "rank": 76,
       "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Malaysia",
-      "rank": 24,
-      "movement": "+13",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Argentina",
-      "rank": 44,
-      "movement": "-39",
       "type": "single",
       "isTop1": false
     },
@@ -30,15 +22,7 @@
       "title": "Be Mine",
       "country": "Argentina",
       "rank": 27,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Be Mine",
-      "country": "Malaysia",
-      "rank": 29,
-      "movement": "+7",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     }
@@ -47,16 +31,16 @@
     {
       "title": "Who",
       "country": "Japan",
-      "rank": 41,
-      "movement": "+1",
+      "rank": 39,
+      "movement": "+2",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Bulgaria",
-      "rank": 173,
-      "movement": "-4",
+      "rank": 186,
+      "movement": "-17",
       "type": "single",
       "isTop1": false
     }
