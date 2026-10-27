@@ -1,68 +1,20 @@
 {
-  "updatedAt": "27/10/2026, 18:29:31 KST",
-  "totalEntries": 9,
+  "updatedAt": "28/10/2026, 00:39:03 KST",
+  "totalEntries": 3,
   "deezer": [
     {
       "title": "Who",
-      "country": "Singapore",
-      "rank": 16,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
       "country": "Argentina",
-      "rank": 20,
-      "movement": "+32",
+      "rank": 36,
+      "movement": "-16",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Japan",
-      "rank": 23,
-      "movement": "+9",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Algeria",
-      "rank": 58,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 65,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 66,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 67,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 68,
-      "movement": "NE",
+      "rank": 70,
+      "movement": "-47",
       "type": "single",
       "isTop1": false
     }
@@ -72,7 +24,7 @@
       "title": "Who",
       "country": "Japan",
       "rank": 33,
-      "movement": "+5",
+      "movement": "+3",
       "type": "single",
       "isTop1": false
     }
