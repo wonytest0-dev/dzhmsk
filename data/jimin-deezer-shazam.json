@@ -1,12 +1,44 @@
 {
-  "updatedAt": "31/10/2026, 19:05:38 KST",
-  "totalEntries": 2,
+  "updatedAt": "01/11/2026, 00:55:37 KST",
+  "totalEntries": 6,
   "deezer": [
     {
       "title": "Who",
       "country": "Argentina",
-      "rank": 5,
-      "movement": "+22",
+      "rank": 8,
+      "movement": "-3",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Ukraine",
+      "rank": 43,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Japan",
+      "rank": 48,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Chile",
+      "rank": 100,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Be Mine",
+      "country": "Argentina",
+      "rank": 39,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     }
@@ -16,7 +48,7 @@
       "title": "Who",
       "country": "Japan",
       "rank": 57,
-      "movement": "-8",
+      "movement": "-11",
       "type": "single",
       "isTop1": false
     }
@@ -24,6 +56,12 @@
   "summary": [
     {
       "title": "Who",
+      "type": "single",
+      "deezerTop1": 0,
+      "shazamTop1": 0
+    },
+    {
+      "title": "Be Mine",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
