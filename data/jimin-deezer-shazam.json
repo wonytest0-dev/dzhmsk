@@ -1,5 +1,5 @@
 {
-  "updatedAt": "07/11/2026, 19:49:51 KST",
+  "updatedAt": "08/11/2026, 01:42:23 KST",
   "totalEntries": 6,
   "deezer": [
     {
@@ -14,7 +14,7 @@
       "title": "Who",
       "country": "Japan",
       "rank": 12,
-      "movement": "NE",
+      "movement": "+52",
       "type": "single",
       "isTop1": false
     },
@@ -22,7 +22,7 @@
       "title": "Who",
       "country": "Turkey",
       "rank": 31,
-      "movement": "NE",
+      "movement": "+34",
       "type": "single",
       "isTop1": false
     },
@@ -30,7 +30,7 @@
       "title": "Be Mine",
       "country": "Argentina",
       "rank": 98,
-      "movement": "-9",
+      "movement": "-52",
       "type": "single",
       "isTop1": false
     }
@@ -39,8 +39,8 @@
     {
       "title": "Who",
       "country": "Japan",
-      "rank": 59,
-      "movement": "=",
+      "rank": 56,
+      "movement": "+3",
       "type": "single",
       "isTop1": false
     },
